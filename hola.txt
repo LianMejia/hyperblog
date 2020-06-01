@@ -2,4 +2,6 @@ Hola mi nombre es Lian Mejia
 
 Estoy practicando Git y GitHub
 
-Me gustan tambien los videojuegos
+Me gustan tambien los videojuegos 
+
+Y tengo 3 mascotas  
